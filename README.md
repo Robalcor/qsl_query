@@ -1,2 +1,2 @@
 # qsl_query
-usando querys de sql analice informacion de distintas tablas de datos 
+usando querys de sql analice informacion de distintas tablas de datos relacionadas
